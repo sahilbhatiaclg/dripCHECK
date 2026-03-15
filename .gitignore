@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secret API Keys (CRITICAL)
+.env
+
+# Streamlit/OS junk
+.streamlit/
+.DS_Store
+
+test_gemini.py
+
